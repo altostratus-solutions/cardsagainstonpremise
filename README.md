@@ -1,4 +1,4 @@
-<p align="center"><img src="sysdig.png" width="360"></p>
+<p align="center"><img src="imagen.png" width="360"></p>
 
 <p align="center">Cartas contra el on-premise.</p>
 <p align="center">Un proyecto colaborativo de Altostratus, Google y Telefónica</p>
