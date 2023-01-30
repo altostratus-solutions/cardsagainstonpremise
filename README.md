@@ -19,7 +19,7 @@ The text used for the Cards against Containers answers can be found in [answers.
 
 Puedes abrir un pull request directamente sobre este directorio o abrir un issue en el el [issue tracker](https://github.com/cardsagainstonpremise/deck/issues)
 
-
+El texto usado para las preguntas puede encontrarse en [questions.txt](./questions.txt), y las respuestas en [answers.txt](./answers.txt)
 
 <hr>
 
@@ -27,6 +27,16 @@ Puedes abrir un pull request directamente sobre este directorio o abrir un issue
 
 ### ¿Cómo conseguir las cartas?
 xxxxx
+
+
+
+
+
+
+
+
+
+
 
 ### Algunas ideas para contribuir
 
@@ -36,7 +46,6 @@ The process we followed was roughly along these lines:
 * Use an existing deck for inspiration, you can use one of ours or the original [CardsAgainstHumanity](https://cardsagainsthumanity.com/)
   * We found it easier to start with question cards as the initial inspiration
   * Some question cards have universal appeal and adapt well to different deck themes, such as:
-    * Why can’t I sleep at night?
     * ______. It's a trap!
     * Why am I sticky?
     * etc.
