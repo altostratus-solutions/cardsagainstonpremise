@@ -23,7 +23,6 @@ El texto usado para las preguntas puede encontrarse en [questions.txt](./questio
 
 <hr>
 
-<p align="center"><a href="https://twitter.com/mauilion/status/1255315212795854848?s=20"><img src="tweet-duffie.png" width="360"></a></p>
 
 ### ¿Cómo conseguir las cartas?
 xxxxx
