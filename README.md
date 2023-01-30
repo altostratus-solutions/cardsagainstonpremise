@@ -1,31 +1,34 @@
 <p align="center"><img src="sysdig.png" width="360"></p>
 
-<p align="center">Cards Against Containers. Powered by Sysdig.</p>
+<p align="center">Cartas contra el on-premise.</p>
+<p align="center">Un proyecto colaborativo de Altostratus, Google y Telefónica</p>
 
 <hr>
 
-### About The Cards
 
-Cards are built from this GitHub repository. If you would like to contribute a deck idea for a future expansion pack, please open up a pull request to this repository. The deck idea will be reviewed by one of the OWNERS and at their discretion will be accepted to the repository for the next build.
+### Sobre las cartas
 
+Este juego es una versión del famoso "Cartas contra la Humanidad", y un fork del proyecto "Cards against Containers", con el objetivo de dar a conocer muchas de las ventajas del Cloud frente a los entornos on-prem, además de pasárlo bien. Es un juego open source, y como tal esperamos contribuciones tanto con preguntas como con respuestas que amplien las ya existentes, por ello todos los contribuidores podrán lanzar un Pull Request, y si es aceptado aparecerá en la versión final del juego, además de llevarse una copia física del juego una vez impreso. 
+
+### ¿De qué va este juego?
 The text used for the Cards against Containers questions can be found in [questions.txt](./questions.txt)
 
 The text used for the Cards against Containers answers can be found in [answers.txt](./answers.txt)
 
-### Contributing Cards
+### Para contrubuir
 
-You can open up a pull request directly to this repository, or you can open an issue in the [issue tracker](https://github.com/cardsagainstcontainers/deck/issues)
+Puedes abrir un pull request directamente sobre este directorio o abrir un issue en el el [issue tracker](https://github.com/cardsagainstonpremise/deck/issues)
 
-<p align="center"><a href="https://twitter.com/jbeda/status/1255651920628207616?s=20"><img src="tweet-joe.png" width="360"></a></p>
+
 
 <hr>
 
 <p align="center"><a href="https://twitter.com/mauilion/status/1255315212795854848?s=20"><img src="tweet-duffie.png" width="360"></a></p>
 
-### Get Cards
-SOLD OUT! We are currently out of Cards Against Containers decks. If you'd like to be waitlisted and notified if/when a deck becomes available please fill out the form here: https://go.sysdig.com/cardsagainstcontainers
+### ¿Cómo conseguir las cartas?
+xxxxx
 
-### Build your own Cards
+### Algunas ideas para contribuir
 
 The process we followed was roughly along these lines:
 * Start with a theme
