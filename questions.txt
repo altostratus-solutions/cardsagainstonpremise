@@ -11,6 +11,8 @@
 "Bebo para olvidar aquella noche en la que  ________."
 "En mi empresa usamos CI/CD, se llama ________."
 "Esta noche tengo que subir ______ a producción, verás qué sorpresa para el equipo de operación ."
+"Mi estrategia de modernización se basa en ________"
+
 
 
 
