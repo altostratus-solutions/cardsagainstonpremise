@@ -16,10 +16,14 @@
 
 
 
-
-
-
-
+"Mi datacenter es más seguro que el cloud porque ________"
+"Una arquitectura monolítica es como ________"
+"Gestionar una caída en mis sistemas es como ________"
+"Mi negocio se queja de que el mainframe de la empresa ________"
+"Voy a acometer una modernización de mis aplicaciones ________"
+"Agile es una metodología adoptada en mi organización porque ________"
+"Sabes que el responsable de IT de tu empresa es un crack porque ________"
+"Pasar unit testings en mis sistemas implica ________"
 
 
 

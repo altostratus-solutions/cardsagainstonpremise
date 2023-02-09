@@ -10,11 +10,19 @@
 "Comer en tu mesa debido a que tienes demasiado trabajo para tomarte un descanso"
 "Ingeniería del Caos, que dirija un mono"
 "lo que esté más de moda en Twitter"
-
-
-
-
-
+"enfría mi cerveza" 
+"llevo sin invertir 15 años"
+"un dinosaurio: grande, pesado y casi extinto"
+"escalar el problema a un especialista, luego al departamento de ingeniería, luego al departamento de desarrollo, luego al departamento de operaciones, luego al departamento de vicepresidente, luego al presidente, luego al CEO, luego al board of directors, luego al SWAT, luego al ejército, luego a la NASA, luego a los extraterrestres, y finalmente a Dios."
+"copiar y pegar código de stackoverflow sin saber muy bien que hace"
+"que no permite muchas modificaciones... Si el último desarrollador murió en el 98"
+"que no permite modernización. Pero puedo tirar el mainframe por la escalera y sigue funcionando!"
+"pero primero tengo que conseguir que mis desarrolladores aprendan a usar la excavadora para encontrar el código fuente"
+"pero antes tengo que encontrar las 7 bolas de dragón para pedir el deseo de recuperar mi código fuente"
+"es como un gato: siempre está cambiando de dirección y nunca sabes realmente qué está haciendo."
+"siempre habla de cosas que no entiende y que cuando le pides ayuda para algo, no sabe cómo ayudarte."
+"siempre está hablando de las últimas tecnologías, pero cuando las pruebas no sabe cómo usarlas."
+"vivir toda una vida y la del becario que ha entrado la semana pasada"
 
 "Cloud-Native"
 "Terribly written code with questionable internal logic"
