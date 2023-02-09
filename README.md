@@ -11,9 +11,12 @@
 Este juego es una versión del famoso "Cartas contra la Humanidad", y un fork del proyecto "Cards against Containers", con el objetivo de dar a conocer muchas de las ventajas del Cloud frente a los entornos on-prem, además de pasárlo bien. Es un juego open source, y como tal esperamos contribuciones tanto con preguntas como con respuestas que amplien las ya existentes, por ello todos los contribuidores podrán lanzar un Pull Request, y si es aceptado aparecerá en la versión final del juego, además de llevarse una copia física del juego una vez impreso. 
 
 ### ¿De qué va este juego?
-The text used for the Cards against Containers questions can be found in [questions.txt](./questions.txt)
 
-The text used for the Cards against Containers answers can be found in [answers.txt](./answers.txt)
+Es un juego de cartas en el que en cada ronda, el juez elige la o las cartas blancas que mejor encajen con la carta negra que ha levantado. Como es mejor verlo que leerlo, [aquí](https://www.youtube.com/watch?v=Uyciy8LmmXg) lo podrás ver, en un minuto.
+
+El texto que usaremos para las cartas negras (las preguntas lo puedes encontrar en [questions.txt](./questions.txt)
+
+Por su lado, el texto de las cartas blancas (las respuestas), está en [answers.txt](./answers.txt)
 
 ### Para contrubuir
 
@@ -26,12 +29,6 @@ El texto usado para las preguntas puede encontrarse en [questions.txt](./questio
 
 ### ¿Cómo conseguir las cartas?
 xxxxx
-
-
-
-
-
-
 
 
 
